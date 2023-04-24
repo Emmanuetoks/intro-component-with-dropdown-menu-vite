@@ -40,7 +40,7 @@ const Navbar = () => {
     return (
         <nav className='navbar nav flex'>
             <section className='nav__logo'>
-                <img src='/public/images/logo.svg' />
+                <img src='/images/logo.svg' />
             </section>
             <section id='primaryNav' is-mobile-menu='false' className='primary-navigation flex'>
                 <ul className='nav__menu flex'>
