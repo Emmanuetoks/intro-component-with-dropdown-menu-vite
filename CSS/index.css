@@ -243,6 +243,7 @@ p, pre, .dropdown-link  {
 .client-companies {
     width: 100%;
     justify-content: space-between;
+    padding-block: 4rem;
 }
 
 .client-companies img {
@@ -281,7 +282,6 @@ p, pre, .dropdown-link  {
     .main-container {
         grid-template-columns: 1fr;
         row-gap: 3rem;
-        padding-bottom: 5rem;
     }
 
     .hero-img {
@@ -371,6 +371,4 @@ p, pre, .dropdown-link  {
     .nav__menu {
         flex-direction: column;
     }
-
-
 }
