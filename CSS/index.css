@@ -40,7 +40,6 @@ html,
 .bg {
     width: 100%;
     height: 100%;
-    overflow: hidden;
 }
 
 button {
@@ -336,7 +335,7 @@ p, pre, .dropdown-link  {
     }
 
     [is-mobile-menu='false'].primary-navigation {
-        transform: translateX(100%);
+       right: -100%;
     }
 
     .menu-btn {
