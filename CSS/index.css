@@ -34,16 +34,13 @@ h1,
     font-family: var(--ff-epilogue);
 }
 
-body {
-    overflow-x: hidden;
-}
-
 body,
 html,
 #root,
 .bg {
     width: 100%;
-    min-height: 100vh;
+    height: 100%;
+    overflow: hidden;
 }
 
 button {
