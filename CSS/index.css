@@ -243,7 +243,6 @@ p, pre, .dropdown-link  {
 .client-companies {
     width: 100%;
     justify-content: space-between;
-    padding-block: 4rem;
 }
 
 .client-companies img {
@@ -304,7 +303,7 @@ p, pre, .dropdown-link  {
     }
 
     .client-companies {
-        padding-inline: 1rem;
+        padding-inline: 1em;
     }
 
     .navbar {
