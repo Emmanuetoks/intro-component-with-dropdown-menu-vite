@@ -318,7 +318,9 @@ p, pre, .dropdown-link  {
         background-color: white;
         flex-direction: column;
         gap: 2rem;
-        inset: 0 0 0 40%;
+        height: 100%
+        width: 60%;
+        right: 0;
         justify-content: flex-start;
         z-index: 1000;
         padding-block: 5rem;
