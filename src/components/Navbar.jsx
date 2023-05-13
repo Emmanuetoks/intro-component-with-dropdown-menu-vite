@@ -42,7 +42,7 @@ const Navbar = () => {
             <section className='nav__logo'>
                 <img src='/images/logo.svg' />
             </section>
-            <section id='primaryNav' is-mobile-menu='false' className='primary-navigation flex'>
+            <section id='primaryNav' is-mobile-menu='true' className='primary-navigation flex'>
                 <ul className='nav__menu flex'>
                     <li dropdown-menu-visible='false' id='features' className='pos-rel'>
                         <a href='#' className='nav__link nav__link-dropdown capitalize'>

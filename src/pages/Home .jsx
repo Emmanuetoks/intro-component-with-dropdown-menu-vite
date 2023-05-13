@@ -4,7 +4,7 @@ import '../../CSS/index.css'
 
 const Home = () => {
   return (
-    <div className='bg'>
+    <div className='bg pos-rel'>
       <header>
         <Navbar />
       </header>
